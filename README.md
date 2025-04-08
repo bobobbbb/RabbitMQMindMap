@@ -1,1 +1,2 @@
 # RabbitMQMindMap
+点击pdf即可查看我的rabbitmq思维导图
